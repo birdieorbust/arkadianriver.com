@@ -12,13 +12,13 @@
 
 # Site settings
 title: MooreTimber
-description: Bespoke carpentry and joinery services.
+description: Bespoke carpentry and joinery solutions.
 owner:
   name: MooreTimber # or company name
-  url: "http://example.com" # your URL
+  url: "https://github.com/birdieorbust/arkadianriver.com" # your URL
 first_published: 2018 # if migrating another site, the year of your first publish
                       # Must be a 4-digit integer year (math is used on it)
-url: "http://example.com" # the base hostname & protocol for this site
+url: "https://github.com/birdieorbust/arkadianriver.com" # the base hostname & protocol for this site
 baseurl: "" # the subpath of your site, e.g. /blog
             # Note you'll have to move your robots.txt to the root if you want it used.
             # And list multiple sitemaps if there are other subdirectories you want indexed
@@ -28,8 +28,8 @@ lang: en-GB # used in HTML lang attributes
 # on landing page
 # - set the greeting only if you want to display the first green section
 greeting:
-  title: Big daft northerner who loves getting woody.
-  text: 
+  title: Big bloody daft northerner who loves getting woody....Tha knows.
+  text: From chisels to clamps, the only thing Liam loves more than a quality knot free piece of timber is a hearty brew with the \'slag\' left in. 
 # - displayed at the bottom
 closing-head: Contact Deano?
 closing-para: Get in touch with Liam.
